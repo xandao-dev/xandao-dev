@@ -1,5 +1,9 @@
 <h1> Hi, I'm Alexandre Calil! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h1> 
 
+I do Mechatronics Engineering and I love programming!
+
+Currently an intern at a robotics startup where I work as a web developer integrating our robot with the world.
+
 <h3> 🚀 Skills </h3>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></a>
@@ -23,6 +27,7 @@
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+<a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></a>
 
 <h3>Connect with me</h3>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
