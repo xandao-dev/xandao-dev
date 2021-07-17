@@ -1,8 +1,8 @@
-<h1> Hi, I'm Alexandre Calil! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h1> 
+<h1> Hi, I'm Alexandre! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h1> 
 
 I do Mechatronics Engineering and I love programming!
 
-I'm currently an intern at Human Robotics startup where I work as a web developer integrating our robot with the world.
+Web development intern at Human Robotics integrating our robots with the world.
 
 <h2> 🚀 Skills </h2>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
@@ -20,7 +20,6 @@ I'm currently an intern at Human Robotics startup where I work as a web develope
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-
 
 <h2> 💡 Interested </h2>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/></a>
