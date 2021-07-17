@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on nlw-valoriza!
 
-- 🌱 I’m currently learning Node.js, PostgreSQL, Express and Docker! 
+- 🌱 I’m currently learning Node.js, PostgreSQL, Express, AWS and Docker! 
 
 - 💬 Talk to me about Python, JavaScript, Vue, Git, Docker and so on =) 
 
