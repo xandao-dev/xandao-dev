@@ -2,7 +2,7 @@
 
 I do Mechatronics Engineering and I love programming!
 
-Currently an intern at a robotics startup where I work as a web developer integrating our robot with the world.
+I'm currently an intern at Human Robotics startup where I work as a web developer integrating our robot with the world.
 
 <h3> 🚀 Skills </h3>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
