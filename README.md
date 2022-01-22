@@ -20,11 +20,7 @@ Web development intern at Human Robotics integrating our robots with the world.
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-
-<h2> 💡 Interested </h2>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/></a>
-<a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-<a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></a>
 
