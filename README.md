@@ -2,7 +2,7 @@
 
 I do Analysis and Systems Development and I love programming!
 
-Web development intern at Human Robotics integrating our robots with the world.
+Full Stack Developer at Yungas, building the best franchising tools ever seen.
 
 <h2> 🚀 Skills </h2>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
