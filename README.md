@@ -10,6 +10,7 @@ Full Stack Developer at Yungas, building the best franchising tools ever seen.
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>
+<a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
@@ -21,7 +22,6 @@ Full Stack Developer at Yungas, building the best franchising tools ever seen.
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/></a>
-<a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
 <a href="https://www.github.com/xandao6"> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></a>
 
 <h2>Connect with me</h2>
