@@ -71,8 +71,8 @@
 <br/>
 
 <p align="center">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=xandao6&show_icons=true&include_all_commits=true&count_private=true&bg_color=a974fa&title_color=080b24&text_color=ffffff&icon_color=080b24&hide_border=true" alt="xandao6 github stats card">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandao6&layout=compact&langs_count=6&bg_color=a974fa&title_color=080b24&text_color=ffffff&hide_border=true" alt="xandao6 most used languages">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=xandao6&show_icons=true&include_all_commits=true&count_private=true&bg_color=080b24&title_color=a065fa&text_color=ffffff&icon_color=a065fa&hide_border=true" alt="xandao6 github stats card">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandao6&layout=compact&langs_count=6&bg_color=080b24&title_color=a065fa&text_color=ffffff&hide_border=true" alt="xandao6 most used languages">
 </p>
 
 <!-- Y HYPE Statistics: https://yhype.me/github/ -->
