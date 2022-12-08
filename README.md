@@ -14,7 +14,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<p>🎓 &nbsp;I'm a Systems Analysis and Development student.</p>
+<p>🎓 &nbsp;Systems Analysis and Development student.</p>
 <p>🔭 &nbsp;Full Stack Developer at <a href="https://yungas.com.br/">Yungas</a>, building the best franchising tools ever seen.
 <p>💡 &nbsp;Challenges are what move me, I've already solved problems in very different fields such as computer vision, webrtc, statistics, web3...</p>
 <p>🌱 &nbsp;I'm on my way to becoming a frontend master, currently focusing on TS, architecture and clean code.</p>
