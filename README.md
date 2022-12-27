@@ -14,8 +14,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<p>🎓 &nbsp;Systems Analysis and Development student.</p>
-<p>🔭 &nbsp;Full Stack Developer at <a href="https://yungas.com.br/">Yungas</a>, building the best franchising tools ever seen.
+<p>🔭 &nbsp;Software Engineer at <a href="">???</a>
 <p>💡 &nbsp;Challenges are what move me, I've already solved problems in very different fields such as computer vision, webrtc, statistics, web3...</p>
 <p>🌱 &nbsp;I'm on my way to becoming a frontend master, currently focusing on TS, architecture and clean code.</p>
 <p>💼 &nbsp;Take a look at my portfolio! <a href="https://xandao.dev">xandao.dev</a>
@@ -52,6 +51,9 @@
 </a>
 <a href="https://www.github.com/xandao-dev">
   <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
+</a>
+<a href="https://www.github.com/xandao-dev">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </a>
 <a href="https://www.github.com/xandao-dev">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
