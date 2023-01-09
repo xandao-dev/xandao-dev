@@ -14,7 +14,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-<p>🔭 &nbsp;Software Engineer at <a href="">???</a>
+<p>🔭 &nbsp;Software Engineer at <a href="https://www.voyagerportal.com/">Voyager Portal</a>
 <p>💡 &nbsp;Challenges are what move me, I've already solved problems in very different fields such as computer vision, webrtc, statistics, web3...</p>
 <p>🌱 &nbsp;I'm on my way to becoming a frontend master, currently focusing on TS, architecture and clean code.</p>
 <p>💼 &nbsp;Take a look at my portfolio! <a href="https://xandao.dev">xandao.dev</a>
